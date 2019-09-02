@@ -8,6 +8,7 @@ namespace GithubDesktopTest {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("GithubDesktopTest");
+            Console.WriteLine("Add");
         }
     }
 }
