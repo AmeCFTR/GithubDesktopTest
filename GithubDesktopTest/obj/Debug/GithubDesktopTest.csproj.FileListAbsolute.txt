@@ -1,0 +1,7 @@
+C:\Users\freiy\Documents\GitHub\GithubDesktopTest\GithubDesktopTest\bin\Debug\GithubDesktopTest.exe.config
+C:\Users\freiy\Documents\GitHub\GithubDesktopTest\GithubDesktopTest\bin\Debug\GithubDesktopTest.exe
+C:\Users\freiy\Documents\GitHub\GithubDesktopTest\GithubDesktopTest\bin\Debug\GithubDesktopTest.pdb
+C:\Users\freiy\Documents\GitHub\GithubDesktopTest\GithubDesktopTest\obj\Debug\GithubDesktopTest.csprojAssemblyReference.cache
+C:\Users\freiy\Documents\GitHub\GithubDesktopTest\GithubDesktopTest\obj\Debug\GithubDesktopTest.csproj.CoreCompileInputs.cache
+C:\Users\freiy\Documents\GitHub\GithubDesktopTest\GithubDesktopTest\obj\Debug\GithubDesktopTest.exe
+C:\Users\freiy\Documents\GitHub\GithubDesktopTest\GithubDesktopTest\obj\Debug\GithubDesktopTest.pdb
